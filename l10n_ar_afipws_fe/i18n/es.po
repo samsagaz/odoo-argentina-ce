@@ -158,7 +158,7 @@ msgstr "CAE Fecha de Vencimiento"
 #: model:ir.model.fields,field_description:l10n_ar_afipws_fe.field_account_move__afip_auth_code
 #: model:ir.model.fields,field_description:l10n_ar_afipws_fe.field_account_payment__afip_auth_code
 msgid "CAE/CAI/CAEA Code"
-msgstr ""
+msgstr "CAE/CAI/CAEA Código"
 
 #. module: l10n_ar_afipws_fe
 #: model:ir.model.fields,field_description:l10n_ar_afipws_fe.field_account_bank_statement_line__afip_auth_code_due
